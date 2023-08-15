@@ -7,7 +7,7 @@ body {
 }
 
 p, h1, a {
-    font-family: 'sans serif', Roboto;
+    font-family: Roboto, sans-serif;
     color: #F6F6F6;
 }
 
