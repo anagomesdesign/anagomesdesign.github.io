@@ -38,6 +38,7 @@ grid-item:nth-child(2) {grid-area: column-2}
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    min-height: 10vh;
 
 }
 
