@@ -15,6 +15,16 @@ p {
     line-height: 32px;
 }
 
+button {
+    cursor: pointer;
+    padding: 12px;
+}
+
+button:hover {
+    border: 1px solid #ffffff;
+    box-shadow: 10px 10px 5px white;
+}
+
 .container {
     height: 100vh;
     display: grid;
